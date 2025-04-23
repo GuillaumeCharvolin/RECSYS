@@ -20,17 +20,6 @@ This project is designed for educational purposes to explore various recommendat
 - Implementing and comparing different recommendation models.
 - Evaluating model performance using MAP (Mean Average Precision).
 
-## Project Overview
-
-The goal of the project is to develop a recommendation system for Steam that can help users find games suited to their preferences, ultimately enhancing user engagement and sales. The system is built using a dataset containing 200,000 user-game interactions and detailed game metadata, including official and community tags.
-
-By applying collaborative and content-based filtering techniques, the system generates personalized recommendations to improve the user experience on Steam.
-
-## Key Features
-- **Personalized Recommendations**: Tailored suggestions based on user behavior.
-- **Diverse Algorithms**: Comparison of collaborative filtering and content-based approaches.
-- **Evaluation**: The system's performance is evaluated with MAP, ensuring high-quality recommendations.
-
 ## Technologies Used
 - Python
 - NumPy
